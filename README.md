@@ -30,6 +30,3 @@ This project utilizes XGBoost to identify customers at risk of leaving the bank.
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run analysis: `notebooks/churn_analysis.ipynb`
 3. Run tests: `python tests/test_pipeline.py`
-
-## Project Report
-Detailed technical insights can be found in the [Project Technical Report](project_technical_report.md).
