@@ -1,5 +1,18 @@
 # Bank Customer Churn Prediction
 
+An end-to-end machine learning system for predicting bank customer attrition with 85%+ accuracy using gradient-boosted trees.
+
+## 🚀 Usage on Google Colab
+To ensure the dataset loads automatically in Colab without manual uploads, run the following command in the first cell:
+```python
+!wget https://raw.githubusercontent.com/SobanSheikh/Bank-Churn-Prediction/main/data/Bank_Churn.csv
+```
+
+## 🏗️ Project Structure
+*   `notebooks/`: Primary analysis and modeling logic.
+*   `data/`: Local copies of clinical and administrative customer data.
+*   `tests/`: Unit tests for data pipeline integrity.
+
 A production-grade machine learning project for predicting customer churn in a banking environment.
 
 ## Overview
