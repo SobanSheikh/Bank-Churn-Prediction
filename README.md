@@ -2,6 +2,8 @@
 
 An end-to-end machine learning system for predicting bank customer attrition with 85%+ accuracy using gradient-boosted trees.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wUNLYuQOK3slcTMyLg_ffJEOlU39COdU?usp=sharing)
+
 ## 🚀 Usage on Google Colab
 To ensure the dataset loads automatically in Colab without manual uploads, run the following command in the first cell:
 ```python
